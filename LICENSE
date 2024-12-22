@@ -1,0 +1,76 @@
+                       GNU GENERAL PUBLIC LICENSE
+                          Version 2, June 1991
+
+Copyright (C) 2024  sudoXpg
+
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+
+                            Preamble
+
+The GNU General Public License is a free software license for software and
+other kinds of works. The licenses for most software are designed to take
+away your freedom to share and change it. By contrast, the GNU General Public
+License is intended to guarantee your freedom to share and change free
+software—to make sure the software is free for all its users.
+
+When we speak of free software, we are referring to freedom, not price.
+To understand the concept, you should think of “free” as in “free speech,”
+not as in “free beer.”
+
+To protect your rights, we need to make restrictions that prohibit anyone
+from denying you these rights or asking you to surrender the rights. These
+restrictions translate to certain responsibilities for you if you distribute
+copies of the software, or if you modify it.
+
+For example, if you distribute copies of such a program, whether gratis or
+for a fee, you must pass on to the recipients the same freedoms that you
+received. You must make sure that they, too, receive or can get the source
+code. And you must show them these terms so they know their rights.
+
+Developers that use the GPL protect your rights with each version of the
+program, but you also have the freedom to change it and distribute your
+modifications.
+
+                            TERMS AND CONDITIONS
+
+1. You may copy and distribute verbatim copies of the Program’s source code
+   as you receive it, in any medium, provided that you conspicuously and
+   appropriately publish on each copy an appropriate copyright notice and
+   disclaimer of warranty; keep intact all the notices that refer to this
+   License and to the absence of any warranty; and distribute a copy of this
+   License along with the Program.
+
+2. You may modify your copy or copies of the Program or any portion of it,
+   thus forming a work based on the Program, and copy and distribute such
+   modifications or work under the terms of Section 1 above, provided that you
+   also meet all of these conditions:
+   a) You must cause the modified files to carry prominent notices stating
+      that you changed the files and the date of any change.
+   b) You must offer your modified version of the Program under the same GPL-2.0
+      license, so that others may benefit from the modifications under the same
+      terms.
+   c) If the modified version is distributed under the GPL, you must provide
+      access to the source code or make it available.
+
+3. You are not required to release the source code or any modified versions
+   if you are not distributing the program or modifications. However, if you
+   distribute the Program or modified versions of it, you are bound by the terms
+   of the GPL.
+
+4. If you distribute the Program in a non-source form, you must make sure that
+   the recipients can access the source code. You can do this by providing
+   them with a copy of the source code, or by making it available for free
+   through a public distribution system.
+
+5. The Program is distributed in the hope that it will be useful, but WITHOUT
+   ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+   FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more
+   details.
+
+6. You should have received a copy of the GNU General Public License along with
+   the Program. If not, see <http://www.gnu.org/licenses/>.
+
+The full GPL-2.0 License can be found at:
+https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
